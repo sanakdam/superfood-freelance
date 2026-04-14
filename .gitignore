@@ -1,6 +1,4 @@
 node_modules/
-menu_data.csv
-menu_data.json
 screenshot.png
 .env
 .DS_Store

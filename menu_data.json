@@ -1,0 +1,436 @@
+{
+  "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+  "totalCategories": 12,
+  "items": [
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Deluxe Katsu Rice Buldak",
+      "description": "Nasi Pulen, Chicken Katsu + Saus Buldak + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Deluxe Katsu Rice Blackpaper",
+      "description": "Nasi Pulen, Chicken Katsu + Saus Blackpepper + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Chicken Katsu Curry Rice",
+      "description": "Chicken katsu dengan saus kari Jepang yang kaya rasa",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Paket Buldak Duo (2 Deluxe Katsu Rice Buldak)",
+      "description": "Dua porsi Deluxe Katsu Buldak, pedas nikmat yang pas untuk pecinta sensasi panas maksimal.",
+      "originalPrice": "Rp 108.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Paket Buldak Mix (Deluxe Katsu Rice Buldak + Deluxe Katsu Rice Blackpaper)",
+      "description": "Kombinasi Buldak dan Blackpepper, perpaduan pedas dan lada yang gurih dan memuaskan.",
+      "originalPrice": "Rp 108.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Paket Buldak Puas (2 Deluxe Katsu Rice Buldak + Deluxe Katsu Rice BBQ)",
+      "description": "Dua Buldak plus BBQ, tiga rasa favorit dalam paket lengkap untuk makan puas.",
+      "originalPrice": "Rp 162.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Golden Crispy Katsu",
+      "description": "Tanpa Nasi + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 37.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu promo",
+      "menuName": "Original Katsu Rice",
+      "description": "Nasi Pulen + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 43.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "Original Katsu Rice",
+      "description": "Nasi Pulen + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 43.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "Golden Crispy Katsu",
+      "description": "Tanpa Nasi + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 37.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "Deluxe Katsu Rice Buldak",
+      "description": "Nasi Pulen, Chicken Katsu + Saus Buldak + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "Original Katsu Rice Bumbu Tabur,",
+      "description": "Nasi Pulen + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus + Bumbu Tabur",
+      "originalPrice": "Rp 28.900",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "A'la Carte Katsu BBQ",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus BBQ + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "A'la Carte Katsu Blackpepper",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus Blackpepper + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "A'la Carte Katsu Teriyaki",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus Teriyaki + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Untukmu",
+      "menuName": "Telur Dadar",
+      "description": "Telur dadar lembut yang pas untuk melengkapi hidangan Anda.",
+      "originalPrice": "Rp 8.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu Favorit Resto",
+      "menuName": "Deluxe Katsu Rice Buldak",
+      "description": "Nasi Pulen, Chicken Katsu + Saus Buldak + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu Favorit Resto",
+      "menuName": "Deluxe Katsu Rice Blackpaper",
+      "description": "Nasi Pulen, Chicken Katsu + Saus Blackpepper + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Menu Favorit Resto",
+      "menuName": "Chicken Katsu Curry Rice",
+      "description": "Chicken katsu dengan saus kari Jepang yang kaya rasa",
+      "originalPrice": "Rp 54.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Paket Buldak Katsu!",
+      "menuName": "Paket Buldak Duo (2 Deluxe Katsu Rice Buldak)",
+      "description": "Dua porsi Deluxe Katsu Buldak, pedas nikmat yang pas untuk pecinta sensasi panas maksimal.",
+      "originalPrice": "Rp 108.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Paket Buldak Katsu!",
+      "menuName": "Paket Buldak Mix (Deluxe Katsu Rice Buldak + Deluxe Katsu Rice Blackpaper)",
+      "description": "Kombinasi Buldak dan Blackpepper, perpaduan pedas dan lada yang gurih dan memuaskan.",
+      "originalPrice": "Rp 108.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Paket Buldak Katsu!",
+      "menuName": "Paket Buldak Puas (2 Deluxe Katsu Rice Buldak + Deluxe Katsu Rice BBQ)",
+      "description": "Dua Buldak plus BBQ, tiga rasa favorit dalam paket lengkap untuk makan puas.",
+      "originalPrice": "Rp 162.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Tak Kenal Maka Tak Sayang",
+      "menuName": "Biar Gak Kelewatan Info Penting!",
+      "description": "Mau tau rekomendasi kuliner lokal yang anti zonk? Follow @lokarasa_official di Instagram dan TikTok ya, buat dapetin info menu, promo, & konten seru lainnya!",
+      "originalPrice": "Rp 1.123.123",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Tak Kenal Maka Tak Sayang",
+      "menuName": "Selalu Ada Dimanapun",
+      "description": "Lebih dari 100 outlet, lebih dari 100 pilihan kuliner seru! Tiap cabang punya menu uniknya sendiri. Yuk explore satu per satu, siapa tau nemu kuliner favorit baru!",
+      "originalPrice": "Rp 1.123.123",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Signature Katsu",
+      "menuName": "Golden Crispy Katsu",
+      "description": "Tanpa Nasi + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 37.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Signature Katsu",
+      "menuName": "Original Katsu Rice",
+      "description": "Nasi Pulen + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 43.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Katsu Flavor Shake",
+      "menuName": "Golden Crispy Katsu Bumbu Tabur,",
+      "description": "Tanpa Nasi + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus + Bumbu Tabur",
+      "originalPrice": "Rp 25.500",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Katsu Flavor Shake",
+      "menuName": "A’la Carte Katsu Bumbu Tabur,",
+      "description": "Tanpa Nasi + Chicken Katsu + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) +  Saus + Bumbu Tabur",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Katsu Flavor Shake",
+      "menuName": "Original Katsu Rice Bumbu Tabur,",
+      "description": "Nasi Pulen + Chicken Katsu Renyah + Sayur Segar (Lettuce, Wortel, Kubis) + Saus + Bumbu Tabur",
+      "originalPrice": "Rp 28.900",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Katsu Flavor Shake",
+      "menuName": "Deluxe Katsu Rice Bumbu Tabur,",
+      "description": "Nasi Pulen, Chicken Katsu + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus + Bumbu Tabur",
+      "originalPrice": "Rp 30.600",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Deluxe Katsu",
+      "menuName": "Deluxe Katsu Rice BBQ",
+      "description": "Nasi Pulen, Chicken Katsu + Saus BBQ + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 32.300",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Deluxe Katsu",
+      "menuName": "Deluxe Katsu Rice Teriyaki",
+      "description": "Nasi Pulen, Chicken Katsu + Saus Teriyaki + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 32.300",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Deluxe Katsu A'la Carte",
+      "menuName": "A'la Carte Katsu BBQ",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus BBQ + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Deluxe Katsu A'la Carte",
+      "menuName": "A'la Carte Katsu Teriyaki",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus Teriyaki + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Deluxe Katsu A'la Carte",
+      "menuName": "A'la Carte Katsu Blackpepper",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus Blackpepper + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Deluxe Katsu A'la Carte",
+      "menuName": "A'la Carte Katsu Buldak",
+      "description": "Tanpa Nasi, Chicken Katsu + Saus Buldak + Scramble Egg + Sayur Segar (Lettuce, Wortel, Kubis) + Saus (Sambal, Tomat, Mayo)",
+      "originalPrice": "Rp 27.200",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Egg",
+      "menuName": "Telur Mata Sapi",
+      "description": "Telur mata sapi sempurna dengan kuning telur yang meleleh.",
+      "originalPrice": "Rp 8.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Egg",
+      "menuName": "Telur Dadar",
+      "description": "Telur dadar lembut yang pas untuk melengkapi hidangan Anda.",
+      "originalPrice": "Rp 8.000",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Rice",
+      "menuName": "Nasi Putih Pulen",
+      "description": "Nasi pulen yang sempurna, pas untuk melengkapi hidangan katsu.",
+      "originalPrice": "Rp 6.400",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Sauce",
+      "menuName": "Saos BBQ",
+      "description": "Saus BBQ manis dan gurih yang melengkapi setiap hidangan.",
+      "originalPrice": "Rp 4.800",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Sauce",
+      "menuName": "Saos Buldak",
+      "description": "Saus pedas buldak dengan rasa menggugah selera.",
+      "originalPrice": "Rp 4.800",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Sauce",
+      "menuName": "Saos Blackpepper",
+      "description": "Saus blackpepper yang pedas dengan rasa berani.",
+      "originalPrice": "Rp 4.800",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    },
+    {
+      "outletName": "Ayam Katsu Katsunami, Lokarasa - Citraland",
+      "categoryName": "Extra Sauce",
+      "menuName": "Saos Teriyaki",
+      "description": "Saus teriyaki yang manis dan gurih, sempurna untuk katsu.",
+      "originalPrice": "Rp 4.800",
+      "discountedPrice": "",
+      "discountInfo": "",
+      "availability": "Tersedia"
+    }
+  ]
+}
