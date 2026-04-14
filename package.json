@@ -1,0 +1,14 @@
+{
+  "name": "grabfood-scraper",
+  "version": "1.0.0",
+  "description": "GrabFood menu scraper using Puppeteer",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
